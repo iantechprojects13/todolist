@@ -1,0 +1,79 @@
+{
+  "todolist": [
+    {
+      "title": "Complete Nmap Presentation",
+      "description": "Finalize slides covering Nmap's name, features, and a main feature explanation.",
+      "date": "2025-02-22"
+    },
+    {
+      "title": "Practice Nmap Commands",
+      "description": "Run basic and advanced Nmap scans on a test network.",
+      "date": "2025-02-23"
+    },
+    {
+      "title": "Work on Order Processing System",
+      "description": "Fix bugs and optimize performance in the Laravel and Vue.js application.",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "Explore Ubuntu",
+      "description": "Set up a virtual machine and test different Linux commands.",
+      "date": "2025-02-25"
+    },
+    {
+      "title": "Review Ethical Hacking Concepts",
+      "description": "Read about penetration testing methodologies and common vulnerabilities.",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "Do Laundry",
+      "description": "Wash, dry, and fold clothes.",
+      "date": "2025-02-22"
+    },
+    {
+      "title": "Clean the Kitchen",
+      "description": "Wash dishes, wipe countertops, and take out the trash.",
+      "date": "2025-02-22"
+    },
+    {
+      "title": "Grocery Shopping",
+      "description": "Buy vegetables, fruits, and other essentials for the week.",
+      "date": "2025-02-23"
+    },
+    {
+      "title": "Sweep and Mop Floors",
+      "description": "Clean the living room, bedroom, and hallway floors.",
+      "date": "2025-02-23"
+    },
+    {
+      "title": "Organize Workspace",
+      "description": "Declutter desk, sort cables, and clean monitor screens.",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "Prepare Meals",
+      "description": "Cook lunch and dinner with a balanced diet in mind.",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "Water the Plants",
+      "description": "Check and water indoor and outdoor plants.",
+      "date": "2025-02-25"
+    },
+    {
+      "title": "Take Out the Trash",
+      "description": "Ensure garbage bins are emptied and cleaned.",
+      "date": "2025-02-25"
+    },
+    {
+      "title": "Exercise",
+      "description": "Do a 30-minute workout or go for a walk.",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "Plan the Next Day",
+      "description": "List tasks for tomorrow and prioritize them.",
+      "date": "2025-02-26"
+    }
+  ]
+}
