@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -20,8 +19,6 @@ const Todos = () => {
       try {
         const response = await axios.get("http://localhost:3000/todolist");
         setData(response.data);
-
-        // console.log(response);
       } catch (error) {
         console.log(error);
       }
@@ -29,8 +26,6 @@ const Todos = () => {
 
     fetchTodo();
   }, []);
-
-  console.log(data.length);
 
   return (
     <div>
@@ -47,7 +42,7 @@ const Todos = () => {
           </div>
         </CardContent>
         <CardFooter className="flex justify-between">
-          <h1>By Ian Albano</h1>
+          <h1>Made by Ian Albano</h1>
         </CardFooter>
       </Card>
     </div>

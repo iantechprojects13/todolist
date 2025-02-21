@@ -74,6 +74,12 @@
       "title": "Plan the Next Day",
       "description": "List tasks for tomorrow and prioritize them.",
       "date": "2025-02-26"
+    },
+    {
+      "id": "9",
+      "title": "Cook Adobo",
+      "description": "Chicken adobo for dinner",
+      "date": "02-22-2025"
     }
   ]
 }
